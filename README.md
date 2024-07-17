@@ -13,29 +13,22 @@ The primary dataset used for this  PowerBI Dashboard is the "Sample_Superstore.c
 
  ### Data Cleaning/Preparation
 1. In the initial data preparation phase, we performed the following tasks:
-2. Creating tables in Sql and then uploading credti card data in it.
-3. Connecting PowerBI and Postgresql Database.
-4. Creating columns using DAX function.
-5. visualizing data using diffent charts.
+2. Making new columns using DAX functions.
+3.  visualizing data using diffent charts.
 
-### Project Insights - Week 53
-
-## Weekly Observation
--Revenue increased by 28.8%
-
-## Yearly Observation
--Overall revenue is 57 M
--Total interest is 8M
--Total transaction amount is 46 M
--Male customers are contributing more in revenue 31M, female 26M.
--Blue & Silver credit card are contributing to 96% of overall transactions.
--TX, NY & CA is contributing to 68%
+### Project Insights - 
+-Overall revenue is 2.3M
+-Overall profit is 286.40K
+-Total quantity sold 38k
+-The consumer segment constitutes 50.56% of the overall market, followed by the corporate segment which is 30.74%.
+-The technology category consitutes 50.79% of the overall market, followed by the office supplies.
+-Texas and Illinois state are highest in sales%
 
 
 ### Results/Findings
   The analysis results are summarized as follows:
-  1. As Male customer are contributing more we must to do something for female so they use it more like discounts on daily care products.
-  2. Blue ans Silver contributing 96%. Focus marketing efforts on these two cards. Create special promotions, rewards, or cashback offers to further drive their usage.
+  1. Targeted Marketing: Since the consumer segment constitutes the majority of the market (50.56%),focus on personalized marketing strategies to further engage this segment. Use data-driven insights to understand consumer preferences and shopping behaviors.
+  2. Technology Dominance: With technology products making up 50.79% of the market, ensure you have the latest and most in-demand tech products. Keep an eye on trends and new releases to stay ahead.
   3. Targeted Marketing: Intensify marketing efforts in these states. Customize campaigns to resonate with local demographics and preferences.
-  4. Localized Promotions: Introduce state-specific promotions, events, or partnerships that appeal to customers in TX, NY, and CA.
+  4. Localized Promotions: Introduce state-specific promotions, events, or partnerships that appeal to customers in Texas and Illinois.
   5. Diversify Geographically: Identify states or regions with lower transaction contributions and develop strategies to increase market presence there.
